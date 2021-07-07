@@ -1,0 +1,6 @@
+Credentials cache: API:D84B8F51-B9F4-4BFE-AEF1-2C8791CF6EBD
+        Principal: sdzamari@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Jun 26 08:59:18 2021  Jun 26 18:59:18 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
+Jun 26 08:59:20 2021  Jun 26 18:59:18 2021  HTTP/student-storage.42adel.org.au@42ADEL.ORG.AU
